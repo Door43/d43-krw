@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[krw:home|Door43 (krw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-krw|d43-krw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-krw/archive/master.zip|d43-krw.zip]]
+
+**Recent Changes**
+{{changes>ns = krw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/krw|Ethnologue data]]
+
